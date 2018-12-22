@@ -1,0 +1,21 @@
+﻿  Game.cpp
+c:\users\philipp\source\repos\salesman\salesman\game.h(21): warning C4305: "Initialisierung": Verkürzung von "int" in "float"
+c:\users\philipp\source\repos\salesman\salesman\game.cpp(23): warning C4244: "Argument": Konvertierung von "int" in "FLOAT", möglicher Datenverlust
+c:\users\philipp\source\repos\salesman\salesman\game.cpp(15): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(243): note: Siehe Deklaration von "freopen"
+c:\users\philipp\source\repos\salesman\salesman\game.cpp(83): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\philipp\source\repos\salesman\salesman\game.cpp(111): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  Way.cpp
+c:\users\philipp\source\repos\salesman\salesman\way.cpp(13): warning C4244: "Initialisierung": Konvertierung von "_Rep" in "unsigned int", möglicher Datenverlust
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+c:\users\philipp\source\repos\salesman\salesman\way.cpp(49): warning C4244: "+=": Konvertierung von "float" in "long", möglicher Datenverlust
+c:\users\philipp\source\repos\salesman\salesman\way.cpp(52): warning C4244: "+=": Konvertierung von "float" in "long", möglicher Datenverlust
+c:\users\philipp\source\repos\salesman\salesman\way.cpp(122): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  main.cpp
+c:\users\philipp\source\repos\salesman\salesman\game.h(21): warning C4305: "Initialisierung": Verkürzung von "int" in "float"
+  Code wird generiert...
+c:\users\philipp\source\repos\salesman\salesman\way.cpp(57): warning C4715: "Way::sumup": Nicht alle Codepfade geben einen Wert zurück.
+  salesman.vcxproj -> C:\Users\philipp\source\repos\salesman\Debug\salesman.exe

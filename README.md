@@ -1,2 +1,0 @@
-# salesman
-abcdefg
